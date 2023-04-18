@@ -1,0 +1,15 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\bin\Debug\net7.0\provaJackson.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\bin\Debug\net7.0\provaJackson.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\bin\Debug\net7.0\provaJackson.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\bin\Debug\net7.0\provaJackson.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\bin\Debug\net7.0\provaJackson.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\refint\provaJackson.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\provaJackson.genruntimeconfig.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\provaJackson\obj\Debug\net7.0\ref\provaJackson.dll
