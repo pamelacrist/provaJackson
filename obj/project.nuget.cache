@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "O5jaA2+oidOeLscPRdhCaV4p6mNT0b6rgy5S8y0QkexpXnmrTVU2vMo6EfrV1orAYThhlS5aF+uqHNpao3sFoA==",
+  "dgSpecHash": "sZGtbG3pFtM0XOkm97OoVCac5J+z+kGxwNuOTFmZNLnuzjHaURX0cbwE+Q+k7bD8DboItSIL2wntZLM3QLVmlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\provaJackson\\provaJackson.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\provaJackson (2)\\provaJackson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pamel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pamel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
